@@ -172,7 +172,7 @@ Some of the key tests performed:
      - `show ip dhcp snooping binding`
      - `show ip arp inspection`
 
-## 📚 What I Practiced / Learned
+## What I Practiced / Learned
 
 - Designing an IP and VLAN plan for a small corporate network.
 - Configuring **router-on-a-stick** inter-VLAN routing.
